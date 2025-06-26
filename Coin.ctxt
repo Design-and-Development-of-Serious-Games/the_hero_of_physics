@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Coin
+comment0.text=\n\ The\ Coin\ class\ represents\ a\ collectible\ coin\ in\ the\ game.\n\ \n\ Coins\ are\ scattered\ throughout\ the\ level\ and\ can\ be\ collected\ by\ the\ player.\n\ Each\ coin\ increases\ the\ player's\ coin\ count\ when\ collected.\n\ The\ class\ supports\ scaling\ to\ adjust\ the\ coin\ size\ for\ different\ placements.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=
+comment1.target=Coin()
+comment2.params=size
+comment2.target=void\ scaleImage(int)
+numComments=3

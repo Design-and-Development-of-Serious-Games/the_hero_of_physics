@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FlashMessage
+comment0.text=\n\ The\ FlashMessage\ class\ displays\ a\ temporary\ on-screen\ message\ to\ the\ player.\n\ \n\ It\ shows\ a\ translucent\ white\ background\ with\ red\ text\ and\ automatically\ disappears\n\ after\ a\ short\ delay\ (approximately\ 1\ second).\ It\ is\ typically\ used\ to\ notify\ players\n\ of\ important\ events\ such\ as\ invalid\ actions\ (e.g.,\ not\ enough\ coins).\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=message
+comment1.target=FlashMessage(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

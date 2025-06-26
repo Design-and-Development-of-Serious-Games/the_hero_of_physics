@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Level1World
+comment0.text=\n\ The\ Level1World\ class\ sets\ up\ the\ first\ level\ of\ the\ game.\n\ \n\ It\ includes\ platforms,\ coins,\ the\ player's\ starting\ position,\n\ and\ an\ introductory\ speech\ that\ guides\ the\ player\ through\ the\ mechanics.\n\ \n\ Features\:\n\ -\ Static\ platforms\ for\ basic\ platforming\ challenges.\n\ -\ Coins\ placed\ on\ elevated\ platforms\ to\ teach\ jumping/collecting.\n\ -\ Introduction\ to\ the\ player\ character,\ life\ and\ coin\ counters.\n\ -\ Entry\ point\ to\ the\ first\ quiz\ via\ the\ QuizSign.\n\ \n\ Interacts\ with\:\n\ -\ Player,\ Platform,\ Coin,\ LifeCounter,\ CoinsCounter,\ QuizSign.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=
+comment1.target=Level1World()
+comment2.params=x\ y
+comment2.target=void\ addCoin(int,\ int)
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SpeechBubble
+comment0.text=\n\ Displays\ a\ series\ of\ messages\ above\ the\ player\ in\ a\ dialog\ bubble,\n\ changing\ every\ few\ seconds\ until\ all\ messages\ are\ shown.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=player\ messages
+comment1.target=SpeechBubble(Player,\ java.lang.String[])
+comment2.params=
+comment2.target=void\ act()
+comment3.params=text
+comment3.target=void\ updateImage(java.lang.String)
+numComments=4

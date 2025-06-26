@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=QuizBox
+comment0.text=\n\ The\ QuizBox\ class\ displays\ a\ quiz\ question\ and\ its\ possible\ answer\ options\n\ inside\ a\ styled\ box\ image.\ It\ is\ shown\ at\ the\ top\ of\ the\ quiz\ screen,\n\ providing\ the\ main\ quiz\ prompt\ to\ the\ player.\n\ \n\ The\ box\ is\ based\ on\ the\ "quiz-box.png"\ image,\ which\ is\ scaled\ to\ fit\ the\ layout,\n\ and\ then\ the\ question\ and\ its\ options\ (if\ any)\ are\ drawn\ dynamically\ using\ a\ font.\n\ \n\ In\ the\ current\ implementation,\ only\ the\ question\ is\ used\ for\ display\ since\ the\ \n\ options\ are\ shown\ separately\ in\ individual\ AnswerBox\ objects.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=question\ options
+comment1.target=QuizBox(java.lang.String,\ java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=QuizRepository
+comment0.text=\n\ The\ QuizRepository\ class\ provides\ static\ access\ to\ quiz\ questions\ for\ each\ game\ level.\n\ \n\ It\ organizes\ and\ returns\ a\ list\ of\ {@code\ QuizQuestion}\ objects\ based\ on\ the\ provided\n\ game\ level.\ This\ supports\ dynamic\ quiz\ generation\ depending\ on\ player\ progression.\n\ \n\ Level\ 1\ includes\ easy,\ introductory\ questions.\n\ Level\ 2\ introduces\ moderately\ harder\ concepts.\n\ Level\ 3\ contains\ more\ challenging\ and\ advanced\ questions.\n\ \n\ This\ class\ centralizes\ quiz\ data\ to\ keep\ question\ logic\ separate\ from\ game\ world\ logic.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=level
+comment1.target=java.util.List\ getQuestionsForLevel(int)
+numComments=2

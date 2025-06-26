@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GameOverWorld
+comment0.text=\n\ The\ GameOverWorld\ class\ represents\ the\ screen\ shown\ when\ the\ player\ loses\ all\ lives.\n\ \n\ It\ displays\ a\ "Game\ Over"\ message\ along\ with\ instructions\ to\ restart\ the\ game.\n\ Pressing\ ENTER\ resets\ the\ LifeCounter\ and\ CoinsCounter\ and\ returns\ the\ player\n\ to\ Level\ 1,\ effectively\ restarting\ the\ game.\n\ \n\ This\ class\ provides\ a\ clean\ transition\ point\ after\ the\ game\ ends.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=
+comment1.target=GameOverWorld()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

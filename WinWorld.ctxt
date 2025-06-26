@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WinWorld
+comment0.text=\n\ WinWorld\ is\ displayed\ when\ the\ player\ successfully\ completes\ all\ levels.\n\ \n\ It\ shows\ a\ celebratory\ background,\ a\ congratulatory\ message,\ and\ the\ player\n\ character\ speaking\ a\ final\ line.\ It\ also\ includes\ a\ restart\ button\ that\ allows\ \n\ the\ player\ to\ return\ to\ the\ beginning\ of\ the\ game\ and\ replay\ it.\n\ \n\ The\ ground\ is\ created\ using\ platform\ tiles,\ and\ the\ scene\ maintains\ visual\n\ consistency\ with\ previous\ levels.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=
+comment1.target=WinWorld()
+comment2.params=
+comment2.target=void\ showVictoryMessage()
+numComments=3

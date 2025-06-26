@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RestartButton
+comment0.text=\n\ The\ RestartButton\ class\ displays\ a\ button\ that\ allows\ the\ player\n\ to\ restart\ the\ game\ after\ completing\ all\ levels\ or\ from\ the\ end\ screen.\n\ \n\ When\ clicked\:\n\ -\ Resets\ the\ CoinCounter\ and\ LifeCounter\ singletons.\n\ -\ Returns\ the\ player\ to\ the\ main\ menu\ (MenuWorld).\n\ \n\ Inherits\ functionality\ from\ GameButton\ to\ support\ consistent\ button\ behavior\n\ and\ image\ scaling.\n\ \n\ Appears\ typically\ in\ the\ WinWorld.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=
+comment1.target=RestartButton()
+comment2.params=
+comment2.target=void\ onClick()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Level2World
+comment0.text=\n\ Level2World\ sets\ up\ the\ second\ level\ of\ the\ game.\n\ \n\ This\ world\ includes\ a\ new\ background,\ platforms,\ collectible\ coins,\ and\ a\ quiz\ sign\n\ for\ Level\ 2\ questions.\ It\ continues\ from\ Level\ 1\ while\ increasing\ difficulty\ slightly\n\ in\ both\ platform\ layout\ and\ quiz\ content.\ The\ player\ retains\ their\ life\ and\ coin\ status\n\ from\ the\ previous\ level.\n\ \n\ Additional\ player\ speech\ is\ used\ to\ guide\ and\ motivate\ the\ player.\ Help\ options\ for\n\ the\ quiz\ are\ refreshed\ in\ this\ level,\ regardless\ of\ previous\ usage.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=
+comment1.target=Level2World()
+comment2.params=x\ y
+comment2.target=void\ addCoin(int,\ int)
+numComments=3

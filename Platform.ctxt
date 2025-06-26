@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Platform
+comment0.text=\n\ The\ Platform\ class\ represents\ a\ solid\ block\ on\ which\ the\ player\n\ can\ walk\ or\ jump.\ It\ is\ a\ core\ component\ of\ each\ level\u2019s\ terrain.\n\ \n\ Each\ platform\ is\ rendered\ using\ the\ "platform3.png"\ image\ and\ scaled\n\ to\ a\ standard\ size\ of\ 50x50\ pixels.\n\ \n\ Platforms\ are\ used\ to\ build\ walkable\ areas\ and\ platforms\ at\ different\ heights.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=
+comment1.target=Platform()
+numComments=2

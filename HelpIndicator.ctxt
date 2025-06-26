@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HelpIndicator
+comment0.text=\n\ The\ HelpIndicator\ class\ displays\ a\ small\ UI\ element\ that\ shows\n\ the\ label\ and\ key\ binding\ for\ a\ help\ option\ in\ the\ quiz.\n\ \n\ Each\ HelpIndicator\ shows\ a\ label\ (e.g.,\ "50\:50\ (-1\ coin)")\ and\n\ the\ corresponding\ keyboard\ key\ (e.g.,\ "f")\ used\ to\ activate\ it.\n\ \n\ This\ helps\ guide\ the\ player\ on\ how\ to\ use\ available\ help\ tools\ during\ a\ quiz.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=label\ key
+comment1.target=HelpIndicator(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ updateImage()
+comment3.params=
+comment3.target=java.lang.String\ getKey()
+numComments=4

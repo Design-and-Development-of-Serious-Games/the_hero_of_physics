@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AnswerBox
+comment0.text=\n\ The\ AnswerBox\ class\ represents\ one\ of\ the\ clickable\ answer\ options\ in\ a\ quiz\ question.\n\ \n\ Each\ AnswerBox\ is\ associated\ with\ a\ specific\ answer\ index\ and\ text.\ It\ detects\n\ clicks\ and\ informs\ the\ QuizWorld\ to\ check\ if\ the\ selected\ answer\ is\ correct.\n\ Visual\ feedback\ is\ provided\ by\ changing\ the\ color\ to\ green\ (correct)\ or\ red\ (incorrect).\n\ \n\ This\ class\ encapsulates\ the\ rendering\ and\ interactivity\ for\ answer\ choices\ in\ the\ quiz\ system.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=answerText\ index\ world
+comment1.target=AnswerBox(java.lang.String,\ int,\ QuizWorld)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getIndex()
+comment4.params=
+comment4.target=void\ showAsCorrect()
+comment5.params=
+comment5.target=void\ showAsIncorrect()
+comment6.params=text\ bgColor
+comment6.target=greenfoot.GreenfootImage\ makeImage(java.lang.String,\ greenfoot.Color)
+numComments=7

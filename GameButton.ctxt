@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GameButton
+comment0.text=\n\ The\ GameButton\ class\ is\ an\ abstract\ base\ class\ for\ all\ interactive\ \n\ button-like\ actors\ in\ the\ game.\ It\ provides\ a\ consistent\ structure\ \n\ for\ buttons\ that\ respond\ to\ mouse\ clicks.\n\ \n\ Features\:\n\ -\ Loads\ and\ scales\ the\ button\ image\ based\ on\ the\ provided\ file\ path\ and\ size.\n\ -\ Detects\ mouse\ clicks\ via\ Greenfoot's\ built-in\ mouse\ support.\n\ -\ Calls\ the\ abstract\ onClick()\ method\ when\ clicked,\ which\ must\ be\ implemented\n\ \ \ by\ each\ subclass\ to\ define\ specific\ behavior.\n\ \n\ This\ class\ enables\ reuse\ and\ cleaner\ design\ for\ UI\ components\ such\ as\n\ Start\ &\ Restart.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=imagePath\ width\ height
+comment1.target=GameButton(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ onClick()
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MenuWorld
+comment0.text=\n\ The\ MenuWorld\ class\ represents\ the\ main\ menu\ screen\ of\ the\ game.\n\ \n\ It\ sets\ the\ background\ image,\ adds\ the\ Start\ button,\ and\ ensures\ that\ \n\ the\ game\ state\ is\ reset\ by\ reinitializing\ the\ LifeCounter\ and\ CoinsCounter\ \n\ singletons.\ This\ guarantees\ that\ every\ new\ game\ starts\ with\ default\ lives\ \n\ and\ coins.\n\ \n\ This\ is\ the\ player's\ entry\ point\ before\ starting\ the\ first\ level.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=
+comment1.target=MenuWorld()
+numComments=2

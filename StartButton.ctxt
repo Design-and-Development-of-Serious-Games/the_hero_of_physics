@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StartButton
+comment0.text=\n\ The\ StartButton\ class\ represents\ the\ main\ button\ used\ to\ start\ the\ game\n\ from\ the\ MenuWorld.\ It\ visually\ blinks\ to\ attract\ the\ player's\ attention.\n\ \n\ Features\:\n\ -\ Inherits\ from\ GameButton\ for\ consistent\ appearance\ and\ click\ behavior.\n\ -\ Blinks\ by\ alternating\ visibility\ every\ 30\ frames.\n\ -\ On\ click,\ it\ transitions\ the\ game\ to\ the\ Level1World.\n\ \n\ This\ button\ is\ typically\ placed\ in\ the\ main\ menu\ screen.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=
+comment1.target=StartButton()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ blink()
+comment4.params=
+comment4.target=void\ onClick()
+numComments=5

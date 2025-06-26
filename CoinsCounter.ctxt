@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CoinsCounter
+comment0.text=\n\ The\ CoinsCounter\ class\ displays\ and\ manages\ the\ number\ of\ coins\ collected\ by\ the\ player.\n\ \n\ It\ follows\ the\ Singleton\ pattern\ to\ ensure\ only\ one\ instance\ exists\ during\ gameplay.\n\ Coins\ can\ be\ added\ through\ the\ `addCoins()`\ method,\ and\ the\ visual\ display\ updates\ automatically.\n\ The\ counter\ shows\ an\ icon\ and\ a\ number,\ and\ it\ can\ be\ reset\ when\ restarting\ the\ game.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=
+comment1.target=CoinsCounter()
+comment2.params=
+comment2.target=CoinsCounter\ getInstance()
+comment3.params=
+comment3.target=void\ resetInstance()
+comment4.params=
+comment4.target=void\ updateImage()
+comment5.params=coins
+comment5.target=void\ addCoins(int)
+comment6.params=
+comment6.target=int\ getCoins()
+numComments=7

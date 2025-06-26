@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HelpButton
+comment0.text=\n\ The\ HelpButton\ class\ provides\ the\ player\ with\ access\ to\ a\ help\ popup\ during\ quizzes.\n\ \n\ When\ the\ player\ presses\ the\ 'H'\ key,\ a\ help\ window\ is\ toggled\ on\ or\ off,\n\ giving\ hints\ about\ how\ to\ use\ the\ available\ help\ options.\n\ It\ displays\ an\ icon\ alongside\ a\ hint\ text\ ("Hit\ [H]\ for\ help").\n\ \n\ The\ popup\ appears\ centered\ in\ the\ screen\ and\ disappears\ when\ the\ key\ is\ pressed\ again.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=
+comment1.target=HelpButton()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ togglePopup()
+numComments=4

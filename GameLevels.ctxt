@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=GameLevels
+comment0.text=\n\ Stores\ constants\ for\ the\ game\ level\ identifiers.\n\ Used\ to\ manage\ transitions\ and\ logic\ across\ different\ levels.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+numComments=1

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=QuizQuestion
+comment0.text=\n\ Represents\ a\ quiz\ question\ with\ multiple\ answer\ choices.\n\ Stores\ the\ question\ text,\ answer\ options,\ and\ the\ index\ of\ the\ correct\ answer.\n\ Used\ during\ the\ quiz\ phase\ of\ the\ game.\n\ \n\ @author\ (Theodora\ Nouni,\ Anastasia\ Pourliaka)\n\ @version\ (v1)\n
+comment1.params=question\ options\ correctIndex
+comment1.target=QuizQuestion(java.lang.String,\ java.lang.String[],\ int)
+comment2.params=
+comment2.target=java.lang.String\ getQuestion()
+comment3.params=
+comment3.target=java.lang.String[]\ getOptions()
+comment4.params=
+comment4.target=int\ getCorrectIndex()
+numComments=5
